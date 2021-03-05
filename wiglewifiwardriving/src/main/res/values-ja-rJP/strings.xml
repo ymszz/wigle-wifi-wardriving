@@ -89,7 +89,7 @@
     <string name="list_upload">ファイルをアップロードしますか？</string>
     <string name="network_signal">信号：</string>
     <string name="network_type">タイプ：</string>
-    <string name="network_firstseen">第1印象：</string>
+    <string name="network_firstseen">初回検出：</string>
     <string name="network_capa">機能：</string>
     <string name="network_channel">チャネル：</string>
     <string name="network_observations">観察：</string>
